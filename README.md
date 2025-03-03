@@ -3,13 +3,18 @@
 # Install the modules
 
 npm install
+
+# Travel to the location
+
 cd chartChats
 
 # Run the dev server
 
 npm run dev
 
-# And can view the UI on http://localhost:5173
+# View
+
+And can view the UI on http://localhost:5173
 
 # Questions to Ask
 
@@ -20,4 +25,4 @@ npm run dev
 # Used
 
 1. React + vite
-2. Reacherts
+2. Recharts
