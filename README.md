@@ -1,14 +1,21 @@
 # Steps
 
-1. Install the modules
+# Install the modules
 
 npm install
+cd chartChats
 
-2. Run the dev server
+# Run the dev server
 
 npm run dev
 
-3. And can view the UI on http://localhost:5173
+# And can view the UI on http://localhost:5173
+
+# Questions to Ask
+
+1. What is the stock prices of the apple for last 7 days
+2. What are the stock prices of the Tesla for last 10 days
+3. Can you help me compare the stock prices of apple and tesla for last 7 days
 
 # Used
 
